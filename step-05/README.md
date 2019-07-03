@@ -76,6 +76,8 @@ app.get('/beers', async function (req, res) {
 });
 ```
 
+![Beer list](/assets/expressBeer-Step-05-beerlist.png)
+
 ![Beer list](/assets/step-05-beerlist.png)
 
 
@@ -104,5 +106,6 @@ app.get('/beer/:beerId', async function (req, res) {
 
 ```   
 
+![Beer list](/assets/expressBeer-step-05-beerdetails.png)
 
 ![Beer list](/assets/step-05-beerdetails.png)
